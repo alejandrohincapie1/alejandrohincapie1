@@ -5,7 +5,7 @@
 ### 🧠 About Me
 
 Soy analista de datos con formación en Marketing y Publicidad, y un máster en Data Science & Data Analytics.
-Cuento con una sólida experiencia como back office en el sector del reciclaje, donde he desarrollado análisis de datos e implementado dashboards en Power BI para mejorar la toma de decisiones.
+Cuento con una sólida experiencia en back office en el sector del reciclaje, donde entre otras funciones he desarrollado análisis de datos e implementado dashboards en Power BI para mejorar la toma de decisiones.
 
 Me considero una persona curiosa y en aprendizaje constante, siempre buscando formas de mejorar procesos y aportar valor a través de los datos.
 
